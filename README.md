@@ -13,7 +13,7 @@ ultimate destination*\
   cout<<"3. Hawaii";
   cin>>a;
   switch(a)
-  }
+  {
   case 1: 
   cout<<"Maldives";
   break;
@@ -26,4 +26,5 @@ ultimate destination*\
   default:
   cout<<"invalid input";
   break;
+  }
   
